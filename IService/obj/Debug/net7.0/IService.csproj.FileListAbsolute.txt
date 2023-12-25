@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\bin\Debug\net7.0\IService.deps.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\bin\Debug\net7.0\IService.runtimeconfig.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\bin\Debug\net7.0\IService.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\bin\Debug\net7.0\IService.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.AssemblyInfo.cs
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\refint\IService.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\IService.genruntimeconfig.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\IService\obj\Debug\net7.0\ref\IService.dll

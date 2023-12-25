@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\bin\Debug\net7.0\Constantes.deps.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\bin\Debug\net7.0\Constantes.runtimeconfig.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\bin\Debug\net7.0\Constantes.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\bin\Debug\net7.0\Constantes.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfo.cs
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\refint\Constantes.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\Constantes.genruntimeconfig.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\Constantes\obj\Debug\net7.0\ref\Constantes.dll

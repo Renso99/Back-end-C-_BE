@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.AssemblyInfo.cs
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\bin\Debug\net7.0\UtilInterface.deps.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\bin\Debug\net7.0\UtilInterface.runtimeconfig.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\bin\Debug\net7.0\UtilInterface.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\bin\Debug\net7.0\UtilInterface.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\refint\UtilInterface.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\UtilInterface.genruntimeconfig.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilInterface\obj\Debug\net7.0\ref\UtilInterface.dll

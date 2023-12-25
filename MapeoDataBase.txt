@@ -1,0 +1,16 @@
+
+
+
+
+CADENA DE CONEXIÓN A SQL SERVER 
+Scaffold-DbContext "Data Source=ASUSTUFGAMING;Initial Catalog=bodega;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir BoDBModel -DataAnnotations -Context "_DbContextbodega" -Force
+Scaffold-DbContext "Data Source=ASUSTUFGAMING;Initial Catalog=bodega;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir DBBodega -DataAnnotations -Context "_DbContextbodega" -Force
+
+CADENA DE CONEXIÓN A MYSQL 
+
+Scaffold-DbContext "Server=localhost;Database=bodega; Uid=root;Pwd=1234" Pomelo.EntityFrameworkCore.MySql -OutPutDir Models/DBBodega  -Context _bodegaContext
+Scaffold-DbContext "Server=localhost;Database=bodega; Uid=root;Pwd=1234" Pomelo.EntityFrameworkCore.MySql -OutPutDir DBBodega -Context _bodegaContext -Force
+
+/*REINICIAR EL IDENTITY DE UNA TABLA*/
+DELETE FROM access.role
+DBCC CHECKIDENT ('access.role', RESEED, 0)>

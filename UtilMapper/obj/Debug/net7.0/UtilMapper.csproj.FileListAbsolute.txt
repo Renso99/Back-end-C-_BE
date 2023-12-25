@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\bin\Debug\net7.0\UtilMapper.deps.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\bin\Debug\net7.0\UtilMapper.runtimeconfig.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\bin\Debug\net7.0\UtilMapper.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\bin\Debug\net7.0\UtilMapper.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.AssemblyInfo.cs
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\refint\UtilMapper.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\UtilMapper.genruntimeconfig.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilMapper\obj\Debug\net7.0\ref\UtilMapper.dll

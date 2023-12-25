@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\bin\Debug\net7.0\UtilSecurity.deps.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\bin\Debug\net7.0\UtilSecurity.runtimeconfig.json
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\bin\Debug\net7.0\UtilSecurity.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\bin\Debug\net7.0\UtilSecurity.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.AssemblyInfo.cs
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\refint\UtilSecurity.dll
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.pdb
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\UtilSecurity.genruntimeconfig.cache
+C:\Users\USER\Desktop\IDL3_Back_end\BE\UtilSecurity\obj\Debug\net7.0\ref\UtilSecurity.dll
